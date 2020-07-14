@@ -1,7 +1,8 @@
 {
   "scripts": {
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "deploy": "/bin/bash  /Users/yons/project/essence/deploy.sh"
   },
   "devDependencies": {
     "vuepress": "^1.5.2"
